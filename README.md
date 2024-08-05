@@ -4,6 +4,8 @@
 </a>
 </p>
 
+![](assets/header_.png)
+
 <p align="center">
 <a href="https://github.com/datttrian">
     <img src="https://github-stats-alpha.vercel.app/api?username=datttrian">
