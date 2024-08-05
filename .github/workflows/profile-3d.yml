@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,4 +17,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: bash ./src/deploy.sh
-        
+        env:
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          USERNAME: ${{ secrets.USERNAME }}
