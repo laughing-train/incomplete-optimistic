@@ -18,12 +18,15 @@ jobs:
 
     - name: Install R packages
       run: |
-        install.packages(c("rmarkdown", "reticulate"))
-        reticulate::py_install("numpy") # Install any required Python packages
+        Rscript -e 'install.packages(c("rmarkdown", "reticulate"))'
 
     - name: Install Pandoc
       run: |
         sudo apt-get install -y pandoc
+
+    - name: Install Python packages
+      run: |
+        Rscript -e 'reticulate::py_install("numpy")'
 
     - name: Run RMarkdown
       run: |
