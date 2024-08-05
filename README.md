@@ -1,4 +1,4 @@
-![](assets/header_.png)
+![](assets/header.png)
 
 <p align="center">
 <a href="https://github.com/datttrian">
