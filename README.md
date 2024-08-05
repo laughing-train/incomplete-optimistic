@@ -30,4 +30,4 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![](assets/Bottom_down.svg)
+![](assets/footer.svg)
