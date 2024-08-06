@@ -30,7 +30,7 @@ jobs:
 
     - name: Run RMarkdown
       run: |
-        Rscript -e "rmarkdown::render('src/README.Rmd')"
+        Rscript -e "rmarkdown::render('README.Rmd')"
 
     - name: Commit & Push
       run: bash ./src/deploy.sh
