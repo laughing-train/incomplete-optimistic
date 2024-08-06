@@ -10,17 +10,15 @@
 
 <p align="center">
 <a href="https://github.com/datttrian">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datttrian">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=datttrian&&show_icons=true&locale=en&layout=compact&langs_count=10">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datttrian">
 </a>
 </p>
 
 <p align="center">
-
 <a href="https://github.com/datttrian">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=datttrian&&show_icons=true&locale=en&layout=compact&langs_count=10">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datttrian">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datttrian">
 </a>
-
 </p>
 
 ``` python
