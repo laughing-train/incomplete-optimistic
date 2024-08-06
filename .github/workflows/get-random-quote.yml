@@ -3,7 +3,6 @@ name: Get Random Quote
 on:
   schedule:
     - cron: "* * * * *"
-  workflow_dispatch:
 
 jobs:
   render:
