@@ -83,6 +83,4 @@ print(get_random_quote())
 
     ## Don't settle for a relationship that won't let you be yourself. - Oprah Winfrey
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ![](assets/footer.svg)
