@@ -48,7 +48,7 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We make our own fortunes and we call them fate. - Benjamin Disraeli
+    ## Don't settle for a relationship that won't let you be yourself. - Oprah Winfrey
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
