@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you accept the expectations of others, especially negative ones, then you never will change the outcome. - Michael Jordan
+    ## Life is divided into the horrible and the miserable. - Woody Allen
 
 ![](assets/footer.svg)
