@@ -2,7 +2,8 @@ name: Get Random Quote
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 8 * * *"
+  workflow_dispatch:
 
 jobs:
   render:
