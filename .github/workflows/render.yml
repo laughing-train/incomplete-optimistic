@@ -32,8 +32,8 @@ jobs:
       run: |
         Rscript -e "rmarkdown::render('README.Rmd')"
 
-    - name: Commit & Push
-      run: bash ./src/deploy.sh
+    - name: Push
+      run: bash ./src/push.sh
       env:
         USER_EMAIL: ${{ secrets.USER_EMAIL }}
         USERNAME: ${{ secrets.USERNAME }}
