@@ -26,11 +26,11 @@ jobs:
 
     - name: Install Python packages
       run: |
-        Rscript -e 'reticulate::py_install("numpy")'
+        Rscript -e 'reticulate::py_install("requests")'
 
     - name: Run RMarkdown
       run: |
-        Rscript -e "rmarkdown::render('README.Rmd')"
+        Rscript -e "rmarkdown::render('src/README.Rmd')"
 
     - name: Commit & Push
       run: bash ./src/deploy.sh
