@@ -41,6 +41,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ![](assets/footer.svg)
