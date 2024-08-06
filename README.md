@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you cannot do great things, do small things in a great way. - Napoleon Hill
+    ## If you accept the expectations of others, especially negative ones, then you never will change the outcome. - Michael Jordan
 
 ![](assets/footer.svg)
