@@ -37,4 +37,5 @@ jobs:
       env:
         USER_EMAIL: ${{ secrets.USER_EMAIL }}
         USERNAME: ${{ secrets.USERNAME }}
+        COMMIT_MESSAGE: ${{ env.COMMIT_MESSAGE }}
 
