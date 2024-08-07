@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life is divided into the horrible and the miserable. - Woody Allen
+    ## The best thing about the future is that it only comes one day at a time. - Abraham Lincoln
 
 ![](assets/footer.svg)
