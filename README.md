@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The best thing about the future is that it only comes one day at a time. - Abraham Lincoln
+    ## No man is free who is not master of himself. - Epictetus
 
 ![](assets/footer.svg)
