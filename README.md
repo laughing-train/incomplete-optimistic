@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## No man is free who is not master of himself. - Epictetus
+    ## Vanity can easily overtake wisdom. It usually overtakes common sense. - Julian Casablancas
 
 ![](assets/footer.svg)
