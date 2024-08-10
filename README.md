@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Vanity can easily overtake wisdom. It usually overtakes common sense. - Julian Casablancas
+    ## Yesterday I dared to struggle. Today I dare to win. - Bernadette Devlin
 
 ![](assets/footer.svg)
