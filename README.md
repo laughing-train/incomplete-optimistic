@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Yesterday I dared to struggle. Today I dare to win. - Bernadette Devlin
+    ## Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing. - Aristotle
 
 ![](assets/footer.svg)
