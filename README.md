@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing. - Aristotle
+    ## A man is not old as long as he is seeking something. - Edmond Rostand
 
 ![](assets/footer.svg)
