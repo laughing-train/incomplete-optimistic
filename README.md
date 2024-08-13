@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A man is not old as long as he is seeking something. - Edmond Rostand
+    ## Be slow of tongue and quick of eye. - Miguel de Cervantes
 
 ![](assets/footer.svg)
