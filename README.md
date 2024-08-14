@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Be slow of tongue and quick of eye. - Miguel de Cervantes
+    ## You give before you get. - Napoleon Hill
 
 ![](assets/footer.svg)
