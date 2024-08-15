@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You give before you get. - Napoleon Hill
+    ## Remember always that you not only have the right to be an individual, you have an obligation to be one. - Eleanor Roosevelt
 
 ![](assets/footer.svg)
