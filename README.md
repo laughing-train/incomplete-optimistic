@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Remember always that you not only have the right to be an individual, you have an obligation to be one. - Eleanor Roosevelt
+    ## The more you like yourself, the less you are like anyone else, which makes you unique. - Walt Disney
 
 ![](assets/footer.svg)
