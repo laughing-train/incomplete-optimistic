@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The more you like yourself, the less you are like anyone else, which makes you unique. - Walt Disney
+    ## Your friend is your needs answered. - Kahlil Gibran
 
 ![](assets/footer.svg)
