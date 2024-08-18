@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Your friend is your needs answered. - Kahlil Gibran
+    ## Most powerful is he who has himself in his own power. - Seneca the Younger
 
 ![](assets/footer.svg)
