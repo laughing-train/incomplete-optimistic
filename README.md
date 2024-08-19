@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Most powerful is he who has himself in his own power. - Seneca the Younger
+    ## Those who dream by day are cognizant of many things which escape those who dream only by night. - Edgar Allan Poe
 
 ![](assets/footer.svg)
