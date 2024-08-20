@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Those who dream by day are cognizant of many things which escape those who dream only by night. - Edgar Allan Poe
+    ## TV and the Internet are good because they keep stupid people from spending too much time out in public. - Douglas Coupland
 
 ![](assets/footer.svg)
