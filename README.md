@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## TV and the Internet are good because they keep stupid people from spending too much time out in public. - Douglas Coupland
+    ## We can only be said to be alive in those moments when our hearts are conscious of our treasures. - Thornton Wilder
 
 ![](assets/footer.svg)
