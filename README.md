@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We can only be said to be alive in those moments when our hearts are conscious of our treasures. - Thornton Wilder
+    ## As you walk down the fairway of life you must smell the roses, for you only get to play one round. - Ben Hogan
 
 ![](assets/footer.svg)
