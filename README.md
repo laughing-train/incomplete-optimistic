@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## As you walk down the fairway of life you must smell the roses, for you only get to play one round. - Ben Hogan
+    ## Listen to what you know instead of what you fear. - Richard Bach
 
 ![](assets/footer.svg)
