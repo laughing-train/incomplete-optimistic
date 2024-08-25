@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Happiness is a perfume you cannot pour on others without getting a few drops on yourself. - Ralph Waldo Emerson
+    ## The way we communicate with others and with ourselves ultimately determines the quality of our lives. - Tony Robbins
 
 ![](assets/footer.svg)
