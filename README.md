@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The way we communicate with others and with ourselves ultimately determines the quality of our lives. - Tony Robbins
+    ## Learning without reflection is a waste, reflection without learning is dangerous. - Confucius
 
 ![](assets/footer.svg)
