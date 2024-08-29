@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is not so much our friends' help that helps us, as the confidence of their help. - Epicurus
+    ## Not all those who wander are lost. - J. R. R. Tolkien
 
 ![](assets/footer.svg)
