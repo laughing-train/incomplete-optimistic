@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Not all those who wander are lost. - J. R. R. Tolkien
+    ## In wisdom gathered over time I have found that every experience is a form of exploration. - Ansel Adams
 
 ![](assets/footer.svg)
