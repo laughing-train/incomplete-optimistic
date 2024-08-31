@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## In wisdom gathered over time I have found that every experience is a form of exploration. - Ansel Adams
+    ## Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson
 
 ![](assets/footer.svg)
