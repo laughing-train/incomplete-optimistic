@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson
+    ## All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise. - Anne Brontë
 
 ![](assets/footer.svg)
