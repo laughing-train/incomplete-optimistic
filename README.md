@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise. - Anne Brontë
+    ## The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts. - Booker T. Washington
 
 ![](assets/footer.svg)
