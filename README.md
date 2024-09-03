@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts. - Booker T. Washington
+    ## How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg. - Abraham Lincoln
 
 ![](assets/footer.svg)
