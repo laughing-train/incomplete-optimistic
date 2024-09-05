@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Imagination is the living power and prime agent of all human perception. - Samuel Taylor Coleridge
+    ## They must often change, who would be constant in happiness or wisdom. - Confucius
 
 ![](assets/footer.svg)
