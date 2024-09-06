@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## They must often change, who would be constant in happiness or wisdom. - Confucius
+    ## The doors of wisdom are never shut. - Benjamin Franklin
 
 ![](assets/footer.svg)
