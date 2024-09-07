@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The doors of wisdom are never shut. - Benjamin Franklin
+    ## Age does not protect you from love. But love, to some extent, protects you from age. - Anaïs Nin
 
 ![](assets/footer.svg)
