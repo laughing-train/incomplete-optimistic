@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Age does not protect you from love. But love, to some extent, protects you from age. - Anaïs Nin
+    ## Setting an example is not the main means of influencing another, it is the only means. - Albert Einstein
 
 ![](assets/footer.svg)
