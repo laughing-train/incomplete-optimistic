@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Setting an example is not the main means of influencing another, it is the only means. - Albert Einstein
+    ## Technological progress has merely provided us with more efficient means for going backwards. - Aldous Huxley
 
 ![](assets/footer.svg)
