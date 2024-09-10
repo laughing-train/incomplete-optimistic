@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Technological progress has merely provided us with more efficient means for going backwards. - Aldous Huxley
+    ## Sooner or later, those who win are those who think they can. - Richard Bach
 
 ![](assets/footer.svg)
